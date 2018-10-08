@@ -4,8 +4,8 @@ using namespace std;
 
 int main()
 {
-cout<< "Hello Github,";
-cout<< "Ansh!";
+cout<< "Hello friends,";
+cout<< "here is Ansh gupta present here!";
 return 0;
 
 }
