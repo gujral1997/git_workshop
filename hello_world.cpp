@@ -7,6 +7,6 @@ int main()
 cout<< "Hello Github,";
 cout<< "Ansh!";
   cout<<"karya";
-return 0;
+return 1;
 
 }
