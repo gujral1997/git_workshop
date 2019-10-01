@@ -4,8 +4,7 @@ using namespace std;
 
 int main()
 {
-cout<< "Hello Github,";
-cout<< "Manmeet!";
+cout<< "Hello World,";
 return 0;
 
 }
