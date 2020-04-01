@@ -1,0 +1,22 @@
+
+Git commands
+
+1) git init # for initialising the repository
+
+2) git status # for checking the status
+
+3) git add # for adding the files
+
+4) git commit -m "commit name" # commit the changes
+
+5) git config --global user.email "email"
+
+6) git config --global user.name "name"
+
+7) git remote add origin "repository url" # form speciying the remote location
+
+8) git push -u origin master # to push the changes online
+
+9) git pull # to pull the changes offline
+
+10) git clone https://github.com/gujral1997/git_workshop
